@@ -4,9 +4,6 @@
   <img src="https://img.shields.io/badge/made%20by-Igor%20Sasaki-6E40C9?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/IgorSasaki/moveIt?color=6E40C9&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/IgorSasaki/moveIt?color=6E40C9&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
-  </a>
   <a href="https://github.com/IgorSasaki/moveIt/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IgorSasaki/moveIt?color=6E40C9&style=flat-square">
   </a>
