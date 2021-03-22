@@ -57,8 +57,8 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 # Abra um terminal e copie este repositório com o comando
 $ git clone https://github.com/IgorSasaki/moveIt.git
 # ou use a opção de download.
-# Entre na pasta web com 
-$ cd moveIt
+# Entre na pasta frontend-next com 
+$ cd frontend-next
 # Instale as dependências
 $ yarn install
 # Rode o aplicação
